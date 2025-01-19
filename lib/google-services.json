@@ -1,0 +1,29 @@
+{
+    "project_info": {
+      "project_number": "926411906948",
+      "project_id": "examscheduleapp",
+      "storage_bucket": "examscheduleapp.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:926411906948:android:96ad4ee300361ea81b07d1",
+          "android_client_info": {
+            "package_name": "com.examscheduleapp"
+          }
+        },
+        "oauth_client": [],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCYVFg9fdoWSOZBuy68W4q3fK9MF_WMzU8"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": []
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
